@@ -31,8 +31,5 @@ public static void main(String[] args) {
         System.out.println("Ошибка: " + e.getMessage());
     }
 
-    // 4. Тестируем ошибки
-    System.out.println("\n4. Тестируем ошибки:");
-
 
 }
